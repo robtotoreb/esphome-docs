@@ -53,7 +53,7 @@ The `CircuitSetup 6-Channel Energy Monitor <https://circuitsetup.us/index.php/pr
             name: "EMON Active Power CT1"
           gain_voltage: 41820
           gain_ct: 25498
-        phase_b:
+        phase_c:
           current:
             name: "EMON CT2 Current"
           power:
